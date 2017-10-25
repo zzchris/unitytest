@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beat Battle.Plugins", "Beat Battle.Plugins.csproj", "{BFB702ED-CB1C-F84A-3BE5-02D38F13F333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beat Battle", "Beat Battle.csproj", "{7615B582-A353-1B32-6886-946E8FC0C5A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beat Battle.Editor.Plugins", "Beat Battle.Editor.Plugins.csproj", "{51271BB0-00DA-C25F-3376-E05DE586DC92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFB702ED-CB1C-F84A-3BE5-02D38F13F333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB702ED-CB1C-F84A-3BE5-02D38F13F333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB702ED-CB1C-F84A-3BE5-02D38F13F333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB702ED-CB1C-F84A-3BE5-02D38F13F333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7615B582-A353-1B32-6886-946E8FC0C5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7615B582-A353-1B32-6886-946E8FC0C5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7615B582-A353-1B32-6886-946E8FC0C5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7615B582-A353-1B32-6886-946E8FC0C5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51271BB0-00DA-C25F-3376-E05DE586DC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51271BB0-00DA-C25F-3376-E05DE586DC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51271BB0-00DA-C25F-3376-E05DE586DC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51271BB0-00DA-C25F-3376-E05DE586DC92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
